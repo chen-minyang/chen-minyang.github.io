@@ -1,24 +1,24 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+title: Minyang Chen
+# tagline: Here is personal website of Minyang Chen. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://chenminyang.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: Minyang Chen
   avatar: hanlin.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
+  tel: 18601905759
+  email: joyxiaohuanggou@163.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  github: chen-minyang
+  #linkedin: hanlincai
+  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #bilibili: 594030035
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
