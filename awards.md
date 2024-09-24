@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink:/awards/
+permalink:/awards/index.html
 title: Awards
 ---
 
