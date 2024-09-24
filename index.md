@@ -29,3 +29,12 @@ I am currently new to the field of computational communication, and I am still a
 
 These are all scientific training that I did during my undergraduate studies. After entering the graduate level, I started a new research direction and received more specialized research training.
 
+
+## Media Internship
+
+- From November 2023 to February 2024, I worked as an intern reporter at the [Zhang Yang Studio of the Audio and Video Department of Xinhua News Agency](http://www.news.cn/politics/20240130/1775a9758f9e44ffa9c2a7aa2d2156c3/c.html), where I participated in the production of the original character interview video.
+
+- I served as a video editing intern for [the video department of Phoenix WEEKLY, a new media brand of Phoenix Weekly](https://www.douyin.com/user/MS4wLjABAAAAW3IshfPBJSe3oESfJyCZ_hlf7YKdSt75wa7cpTD27gg), from March to June 2024.
+
+- I assisted the Video Shooting and Video Editing work for [the Zanang Zanongfa Jidianhua and Collection Center Co., Ltd. under the Zanang County Development and Reform Commission, Tibet Autonomous Region](https://www.douyin.com/user/MS4wLjABAAAAi_G3T8gts0nlGyHweGBKIeXCSgR1CObesK2ZHUSL_0Y), from August to September, 2024.
+
