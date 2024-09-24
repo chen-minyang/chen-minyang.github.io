@@ -21,3 +21,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 I am currently new to the field of computational communication, and I am still a novice. But I'm studying hard and trying to catch up.
 
 
+## Research Training
+
+- National College Student Innovation Training Project "Research on the Mechanism of Language Identity in the Revitalization of Rural Talents: A Case Study of Tongcun Town, Kaihua, Zhejiang"(December 2022 to April 2024)
+
+- University-level Research Training Program (URP) "Research on Rural Reporting in Urban Media: A Case Study of the "Village" Channel of Beijing News(December 2021 to May 2023)
+
+These are all scientific training that I did during my undergraduate studies. After entering the graduate level, I started a new research direction and received more specialized research training.
+
