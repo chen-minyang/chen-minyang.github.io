@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink:/awards/index.md
+permalink:/awards/index.html
 title: Awards
 ---
 
