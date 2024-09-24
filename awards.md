@@ -4,26 +4,29 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 24th Sep 2024
 
-## Scholarships
+## Domestic awards
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+### Honorary title
+- 2020~2021学年、2021~2022学年及2022~2023学年获校级三好学生；
+- 2021~2022学年获优秀学生干部；
+- 2021~2022学年获中国农业大学校党委宣传部和校记者团颁发的“优秀记者”；
+- 2021~2022学年获中国农业大学校党委宣传部和校视频中心颁发的“优秀视频创作者”；
+- 2021~2022学年获中国农业大学人文与发展学院新闻中心“优秀干事”；
+- 2022年8月获湖南省衡东县暑假社会实践“先进个人”。
 
-## Competitions
+### Scholarship
+- 2021~2022学年及2022~2023学年获国家奖学金；
+- 2020~2021学年、2021~2022学年及2022~2023学年获学业一等奖学金；
+- 2021~2022学年获知农爱农奖学金；
+- 2021~2022学年获“崇农尚美”敏聪乡村振兴奖学金。
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+### Competitions
+- 2023年6月获“青创北京”2023年挑战杯首都大学生课外学术科技作品竞赛银奖；
+- 2022年3月中国农业大学“兴农杯”创新创业大赛创业赛道人文与发展学院院赛二等奖；
+- 2023年4月中国农业大学“强农杯”创新创业大赛创新赛道人文与发展学院院赛三等奖；
+- 2021年12月校图书馆视频大赛获优秀奖和佳作奖；
+- 2022年5月校学生会微电影大赛获三等奖。
 
 <br>
