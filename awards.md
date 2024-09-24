@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /https://chenminyang.com/awards/index.html
+permalink:/awards/
 title: Awards
 ---
 
