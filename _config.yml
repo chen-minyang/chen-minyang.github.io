@@ -48,6 +48,9 @@ links:
     url: /blogs/
 
 
+favicon: https://chen-minyang.github.io/images/学士服照片.jpg  # 根据你的文件路径进行调整
+
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
