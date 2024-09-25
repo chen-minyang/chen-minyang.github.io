@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://chen-minyang.github.io/images/学士服照片.jpg" class="floatpic" width="360" height="480">
 
 Here is **Minyang Chen (Joy, 陈敏扬)**.
 
