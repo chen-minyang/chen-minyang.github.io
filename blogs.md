@@ -12,5 +12,3 @@ title: Blogs
 - [2024.7.31当西西弗斯开始玩悠悠球](https://chen-minyang.github.io/blogs/当西西弗斯开始玩悠悠球/)
 - [2024.8.16她乡的童年](https://chen-minyang.github.io/blogs/她乡的童年/)
 - [2024.9.15生长在水里的树](https://chen-minyang.github.io/blogs/生长在水里的树/)
-
-
