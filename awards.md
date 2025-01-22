@@ -4,29 +4,29 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 24th Sep 2024
+> Update: 22th Jan 2025
 
 ## Domestic awards
 
 ### Honorary title
-- 2020~2021学年、2021~2022学年及2022~2023学年获校级三好学生；
-- 2021~2022学年获优秀学生干部；
-- 2021~2022学年获中国农业大学校党委宣传部和校记者团颁发的“优秀记者”；
-- 2021~2022学年获中国农业大学校党委宣传部和校视频中心颁发的“优秀视频创作者”；
-- 2021~2022学年获中国农业大学人文与发展学院新闻中心“优秀干事”；
-- 2022年8月获湖南省衡东县暑假社会实践“先进个人”。
+- Awarded the title of "Outstanding Student" at the school level for the 2020-2021, 2021-2022, and 2022-2023 academic years.
+- Awarded "Excellent Student Leader" for the 2021-2022 academic year.
+- Awarded "Excellent Reporter" by the Propaganda Department of the Party Committee and the Student Reporter Team of Chinese Agricultural University for the 2021-2022 academic year.
+- Awarded "Excellent Video Creator" by the Propaganda Department of the Party Committee and the Video Center of Chinese Agricultural University for the 2021-2022 academic year.
+- Awarded "Excellent Staff Member" by the News Center of the School of Humanities and Development, Chinese Agricultural University for the 2021-2022 academic year.
+- Awarded "Advanced Individual" in the summer social practice in Hengdong County, Hunan Province, in August 2022
 
 ### Scholarship
-- 2021~2022学年及2022~2023学年获国家奖学金；
-- 2020~2021学年、2021~2022学年及2022~2023学年获学业一等奖学金；
-- 2021~2022学年获知农爱农奖学金；
-- 2021~2022学年获“崇农尚美”敏聪乡村振兴奖学金。
+- Awarded the National Scholarship for the 2021-2022 and 2022-2023 academic years.
+- Awarded the First-Class Academic Scholarship for the 2020-2021, 2021-2022, and 2022-2023 academic years.
+- Awarded the "Zhinong Ainnong" Scholarship for the 2021-2022 academic year.
+- Awarded the "Chongnong Shangmei" Mincong Rural Revitalization Scholarship for the 2021-2022 academic year.
 
 ### Competitions
-- 2023年6月获“青创北京”2023年挑战杯首都大学生课外学术科技作品竞赛银奖；
-- 2022年3月中国农业大学“兴农杯”创新创业大赛创业赛道人文与发展学院院赛二等奖；
-- 2023年4月中国农业大学“强农杯”创新创业大赛创新赛道人文与发展学院院赛三等奖；
-- 2021年12月校图书馆视频大赛获优秀奖和佳作奖；
-- 2022年5月校学生会微电影大赛获三等奖。
+- Won the Silver Award in the "Qingchuang Beijing" 2023 Challenge Cup Capital University Student Extracurricular Academic and Technological Works Competition in June 2023.
+- Won the Second Prize in the Entrepreneurship Track of the "Xingnong Cup" Innovation and Entrepreneurship Competition at China Agricultural University in March 2022.
+- Won the Third Prize in the Innovation Track of the "Qiangnong Cup" Innovation and Entrepreneurship Competition at China Agricultural University in April 2023.
+- Won the Excellence Award and the Best Work Award in the University Library Video Competition in December 2021.
+- Won the Third Prize in the Student Union Microfilm Competition in May 2022.
 
 <br>
