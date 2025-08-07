@@ -8,7 +8,7 @@ layout: page
 
 Here is **Minyang Chen (Joy, 陈敏扬)**.
 
-I am a graduate student in the School of Journalism and Communication, Nanjing University, advised by [Cheng-jun Wang](https://chengjunwang.com/), within [Socrates Lab](https://chengjun.github.io/socrateslab/). Welcome to follow my personal academic WeChat official account([A little yellow dog in communication studies](https://mp.weixin.qq.com/s/NFxRchd0H-KfLdYh6SFzSA).
+I am a graduate student in the School of Journalism and Communication, Nanjing University, advised by [Cheng-jun Wang](https://chengjunwang.com/), within [Socrates Lab](https://chengjun.github.io/socrateslab/). Welcome to follow my personal academic WeChat official account:[A little yellow dog in communication studies](https://mp.weixin.qq.com/s/NFxRchd0H-KfLdYh6SFzSA).
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me.
 
